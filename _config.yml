@@ -6,7 +6,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   browse an interactive map, view stats and charts, check affected regions in real-time and more.
 keywords: "Corona, Coronavirus, israel, covid 19, Coronavirus updates, live status, news"
 author: "Meir Roth"
-url:  https://covid19israel.live/
+url:  https://coronavirusisrael.live/
 baseurl:  # the subpath of your site, e.g. /blog
 permalink: pretty
 environment: development
